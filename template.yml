@@ -1,0 +1,5 @@
+---
+provider: github
+defaultBranch: main
+name: test-proposal
+description: test proposal
